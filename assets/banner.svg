@@ -33,7 +33,7 @@
   </defs>
 
   <style>
-    /* Dynamic pulsing & floating background animations */
+    <![CDATA[
     @keyframes floatAgent1 {
       0% { transform: translateY(0px) translateX(0px); }
       50% { transform: translateY(-12px) translateX(6px); }
@@ -80,6 +80,7 @@
       font-family: -apple-system, BlinkMacSystemFont, "Segoe UI", Roboto, Helvetica, Arial, sans-serif;
       font-weight: 400;
     }
+    ]]>
   </style>
 
   <!-- Deep Canvas Background -->
