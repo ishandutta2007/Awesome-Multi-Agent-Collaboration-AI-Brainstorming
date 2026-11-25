@@ -7,7 +7,7 @@
 <p align="center">
   <a href="https://github.com/ishandutta2007/Awesome-Awesome-Awesome"><img src="https://img.shields.io/badge/Awesome-%E2%9C%94-blueviolet?style=flat-square&logo=github" alt="Awesome"/></a>
   <a href="https://discord.gg/jc4xtF58Ve"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
-  <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming?style=social" alt="GitHub stars" /></a>
+  <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming/stargazers"><img src="https://img.shields.io/github/stars/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming?style=social" alt="GitHub_Stars" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming/network/members"><img src="https://img.shields.io/github/forks/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming?style=social" alt="GitHub forks" /></a>
   <a href="https://github.com/ishandutta2007/Awesome-Multi-Agent-Collaboration-AI-Brainstorming/blob/main/LICENSE"><img src="https://img.shields.io/badge/License-MIT-green.svg?style=flat-square" alt="License: MIT" /></a>
   <a href="https://github.com/ishandutta2007"><img alt="GitHub followers" src="https://img.shields.io/github/followers/ishandutta2007?label=Follow" /></a>
@@ -65,9 +65,9 @@ The table below lists leading managed SaaS platforms and visual cloud environmen
 
 ## 🐙 Open-Source GitHub Projects & Frameworks
 
-The table below catalogs premier open-source multi-agent collaboration frameworks, brainstorming councils, visual whiteboards, and LLM orchestration engines. Sorted in descending order by **GitHub Stars** ⭐.
+The table below catalogs premier open-source multi-agent collaboration frameworks, brainstorming councils, visual whiteboards, and LLM orchestration engines. Sorted in descending order by **GitHub_Stars** ⭐.
 
-| Repository & Framework 🛠️ | GitHub Star Count 🌟 | Primary Category 🏷️ | Key Features & Brainstorming Capabilities 💡 |
+| Repository & Framework 🛠️ | GitHub Stars_Count 🌟 | Primary Category 🏷️ | Key Features & Brainstorming Capabilities 💡 |
 | :--- | :---: | :--- | :--- |
 | **[ollama/ollama](https://github.com/ollama/ollama)** | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Local Model Runtime | Run open-weights frontier LLMs (Llama, DeepSeek, Qwen, Mistral) locally to power multi-agent councils offline without cloud API costs. |
 | **[langgenius/dify](https://github.com/langgenius/dify)** | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | Visual Workflow Studio | Production-grade open-source LLMOps platform featuring visual agent orchestration, shared RAG pipelines, and multi-model collaboration. |
@@ -147,7 +147,7 @@ We welcome high-quality contributions from researchers, builders, and community 
 
 1. **Fork the Repository** to your own GitHub account.
 2. **Add or Update Entries** in `README.md` maintaining table formatting, explicit pricing tiers, free limits, company sizes, and valid GitHub links.
-3. **Verify Links & Badges**: Ensure all repo URLs point to authentic sources and star badges utilize `https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`.
+3. **Verify Links & Badges**: Ensure all repo URLs point to authentic sources and Stars_Badges utilize `https://img.shields.io/github/stars/<owner>/<repo>?style=social&color=white`.
 4. **Submit a Pull Request** with a descriptive title and brief context explaining your changes.
 
 For the parent collection of awesome lists, check out [Awesome Awesome Awesome](https://github.com/ishandutta2007/Awesome-Awesome-Awesome).
