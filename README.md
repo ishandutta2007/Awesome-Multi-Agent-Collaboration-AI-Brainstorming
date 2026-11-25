@@ -67,7 +67,7 @@ The table below lists leading managed SaaS platforms and visual cloud environmen
 
 The table below catalogs premier open-source multi-agent collaboration frameworks, brainstorming councils, visual whiteboards, and LLM orchestration engines. Sorted in descending order by **GitHub_Stars** ⭐.
 
-| Repository & Framework 🛠️ | GitHub Stars_Count 🌟 | Primary Category 🏷️ | Key Features & Brainstorming Capabilities 💡 |
+| Repository & Framework 🛠️ | GitHub_Stars_Count 🌟 | Primary Category 🏷️ | Key Features & Brainstorming Capabilities 💡 |
 | :--- | :---: | :--- | :--- |
 | **[ollama/ollama](https://github.com/ollama/ollama)** | [![Stars](https://img.shields.io/github/stars/ollama/ollama?style=social&color=white)](https://github.com/ollama/ollama/stargazers) | Local Model Runtime | Run open-weights frontier LLMs (Llama, DeepSeek, Qwen, Mistral) locally to power multi-agent councils offline without cloud API costs. |
 | **[langgenius/dify](https://github.com/langgenius/dify)** | [![Stars](https://img.shields.io/github/stars/langgenius/dify?style=social&color=white)](https://github.com/langgenius/dify/stargazers) | Visual Workflow Studio | Production-grade open-source LLMOps platform featuring visual agent orchestration, shared RAG pipelines, and multi-model collaboration. |
